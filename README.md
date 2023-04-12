@@ -7,8 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mike-smith-001/Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mike-smith-001/-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Microsoft Azure Storage Account](https://github.com/mike-smith-001/Microsoft-Azure-Storage-Account)
+  - [Configuring Active Directory within Azure VMs](https://github.com/mike-smith-001/Azure-Config)
+  - [Azure File Permissions](https://github.com/mike-smith-001/Azure-File-Permissions)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mike-smith-001/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
