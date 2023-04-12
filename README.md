@@ -14,6 +14,6 @@
 
 <h2>🤳🏿 Connect with me:</h2>
 
-[<img align="left" alt="Roslynd | LinkedIn" width="22px" src="https://www.linkedin.com/in/machael-smith-9944b8189/" />][linkedin]
+[<img align="left" alt="Roslynd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/machael-smith-9944b8189/
+[linkedin]: https://www.linkedin.com/in/roslynd-williams
