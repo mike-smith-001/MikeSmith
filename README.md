@@ -12,9 +12,8 @@
   - [Azure File Permissions](https://github.com/mike-smith-001/Azure-File-Permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mike-smith-001/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳🏿 Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/machael-smith-9944b8189/" />][linkedin]
+[<img align="left" alt="Roslynd | LinkedIn" width="22px" src="https://www.linkedin.com/in/machael-smith-9944b8189/" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/machael-smith-9944b8189/
-
